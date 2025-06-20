@@ -1,0 +1,30 @@
+{
+  "name": "hex-converter",
+  "version": "1.0.0",
+  "description": "convert hexadecimal number in browser",
+  "main": "hex-converter.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CNOCTAVE/hex-converter.git"
+  },
+  "keywords": [
+    "hex",
+    "hexadecimal",
+    "convert",
+    "number",
+    "CNOCTAVE",
+    "yuhongbo"
+  ],
+  "author": "CNOCTAVE, Yu Hongbo",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/CNOCTAVE/hex-converter/issues"
+  },
+  "homepage": "https://github.com/CNOCTAVE/hex-converter#readme"
+}
